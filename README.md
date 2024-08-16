@@ -14,7 +14,7 @@ C# and Python on freeCodeCamp
 
 📚 **Projects:**
 - Full-stack news web application: [Hosted API](https://nc-news-jx1u.onrender.com) | [Hosted Web App](https://nc-news12.netlify.app/) | [Back-end Repo](https://github.com/darinaJur/nc-news) | [Front-end Repo](https://github.com/darinaJur/fe-nc-news)
-- Recipe Box: [GitHub Repo](https://github.com/bitbybit-nc/RecipeBox)
+- A mobile app Recipe Box: [GitHub Repo](https://github.com/bitbybit-nc/RecipeBox)
 - Portfolio: [Hosted Web app](https://darina.dev/) | [GitHub Repo](https://github.com/darinaJur/portfolio)
 
 
