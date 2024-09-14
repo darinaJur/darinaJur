@@ -1,4 +1,4 @@
-Hello! I’m Darina. After a successful career as a consulting engineer in construction, I transitioned into programming and recently graduated from a Software Development course at Northcoders.  I'm looking to continue my career as a Software Developer in a professional setting that encourages continuous development and growth.
+Hello, I’m Darina! After a successful career as an engineer in construction, I transitioned into programming and recently graduated from a Full-stack Software Development course at Northcoders.  I'm looking to continue my career as a Software Developer in a professional setting that encourages continuous learning and growth.
 
 ✔️ **Tech stack:**
 - **JavaScript:** Node.js and browser
