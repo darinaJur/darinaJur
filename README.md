@@ -9,7 +9,7 @@ Hello! I’m Darina. After a successful career as a consulting engineer in const
 
 🌱 **Currently learning:**
 
-C# on freeCodeCamp
+C# on .NET framework
 
 
 📚 **Projects:**
